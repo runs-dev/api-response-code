@@ -1,4 +1,4 @@
-package main
+package apiresponsecode
 
 var (
 	success              = "000"
