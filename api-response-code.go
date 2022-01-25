@@ -1,6 +1,6 @@
 package main
 
-const (
+var (
 	success              = "000"
 	invalidSignature     = "100"
 	queryError           = "101"
