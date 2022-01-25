@@ -39,7 +39,3 @@ var statusText = map[string]string{
 	troubleRequest:       "Failed to request data with such error : ",
 	troubleDecode:        "Failed to decode data with such error : ",
 }
-
-func StatusText(code string) string {
-	return statusText[code]
-}
